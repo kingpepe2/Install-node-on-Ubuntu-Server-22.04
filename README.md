@@ -51,6 +51,8 @@ txindex=1
 
 daemon=1
 
+addnode=node3.walletbuilders.com
+
 Save the file with the keyboard shortcut ctrl + x.
 
 Type the following command to start your node:
