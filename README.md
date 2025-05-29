@@ -51,7 +51,7 @@ txindex=1
 
 daemon=1
 
-addnode=http://85.237.211.140:22093
+addnode=http://pepe3.org:22093
 
 Save the file with the keyboard shortcut ctrl + x.
 
