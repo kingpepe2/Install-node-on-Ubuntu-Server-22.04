@@ -7,7 +7,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 Download the Linux daemon for your wallet with the following command:
 
-wget "https://dl.walletbuilders.com/download?customer=b99a53a3f81f1bbb2049773ab7e188c73b503cc19256b64eb5&filename=kingpepe-daemon-linux.tar.gz" -O kingpepe-daemon-linux.tar.gz
+wget "https://dl.walletbuilders.com/download?customer=7fd7ad0365703844c530ed1b76f8838f9e81a832a1178f1a56&filename=kingpepe-daemon-linux.tar.gz" -O kingpepe-daemon-linux.tar.gz
 
 Extract the tar file with the following command:
 
@@ -15,7 +15,7 @@ tar -xzvf kingpepe-daemon-linux.tar.gz
 
 Download the Linux tools for your wallet with the following command:
 
-wget "https://dl.walletbuilders.com/download?customer=b99a53a3f81f1bbb2049773ab7e188c73b503cc19256b64eb5&filename=kingpepe-qt-linux.tar.gz" -O kingpepe-qt-linux.tar.gz
+wget "https://dl.walletbuilders.com/download?customer=7fd7ad0365703844c530ed1b76f8838f9e81a832a1178f1a56&filename=kingpepe-qt-linux.tar.gz" -O kingpepe-qt-linux.tar.gz
 
 Extract the tar file with the following command:
 
@@ -50,8 +50,6 @@ server=1
 txindex=1
 
 daemon=1
-
-addnode=http://pepe3.org:22093
 
 Save the file with the keyboard shortcut ctrl + x.
 
