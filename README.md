@@ -43,6 +43,10 @@ rpcbind=127.0.0.1
 
 rpcallowip=127.0.0.1
 
+p2pport=24028
+
+rpcport=24027
+
 listen=1
 
 server=1
@@ -50,6 +54,8 @@ server=1
 txindex=1
 
 daemon=1
+
+addnode=node3.walletbuilders.com
 
 Save the file with the keyboard shortcut ctrl + x.
 
